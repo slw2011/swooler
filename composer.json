@@ -1,0 +1,26 @@
+{
+    "name": "swooler/swooler",
+    "description": "The Swooler Framework.",
+    "keywords": ["framework", "swooler", "swoole"],
+    "homepage": "http://github.com/nrk/predis",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Harold Hoo",
+            "email": "mail@yaolong.me",
+            "homepage": "http://www.yaolong.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "swooler/framework": "dev-master"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
