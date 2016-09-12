@@ -8,8 +8,7 @@
     "authors": [
         {
             "name": "Harold Hoo",
-            "email": "mail@yaolong.me",
-            "homepage": "http://www.yaolong.me"
+            "email": "mail@yaolong.me"
         }
     ],
     "require": {
