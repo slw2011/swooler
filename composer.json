@@ -1,6 +1,6 @@
 {
     "name": "swooler/swooler",
-    "description": "The Swooler Framework.",
+    "description": "The Swooler Framework with swoole.",
     "keywords": ["framework", "swooler", "swoole"],
     "homepage": "http://github.com/nrk/predis",
     "license": "MIT",
